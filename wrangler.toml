@@ -1,0 +1,6 @@
+name = "proxy-checker"
+main = "index.js"
+compatibility_date = "2024-06-22"
+
+[vars]
+GITHUB_TOKEN = "ghp_xxx...ganti_dengan_token_anda"
